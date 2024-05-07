@@ -1,0 +1,3 @@
+<!--index.wxml-->
+<navigation-bar title="BSP" back="{{false}}" color="#181d4b" background="linear-gradient(to right, #ffcda5, #eef2f3)"></navigation-bar>
+
