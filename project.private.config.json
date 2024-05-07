@@ -3,5 +3,6 @@
   "projectname": "brandSaleParing",
   "setting": {
     "compileHotReLoad": true
-  }
+  },
+  "libVersion": "3.4.3"
 }

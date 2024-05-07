@@ -1,7 +1,14 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/logs/logs"
+    "pages/index/index"
+  ],
+  "subPackages": [
+    {
+      "root": "logs",
+      "pages": [
+        "pages/logs/logs"
+      ]
+    }
   ],
   "window": {
     "navigationBarTextStyle": "black",
